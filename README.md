@@ -1,9 +1,3 @@
-
-<div align="center">
-<h2> Process Tracker and Manager </h2>
-<h3> OS Lab Project </h3>
-</div>
-
 # 🖥️ Operating System - Process Tracker & Manager  
 
 ### 📌 Overview  

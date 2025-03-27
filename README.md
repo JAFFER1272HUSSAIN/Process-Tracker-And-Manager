@@ -4,16 +4,29 @@
 <h3> OS Lab Project </h3>
 </div>
 
-#### Supervised By:
-Ma'am Abqa Javed
+# 🖥️ Operating System - Process Tracker & Manager  
 
-#### Submitted By:
-| Name                 | Registration No.          |
-|----------------------|-------------|
-| Jaffer Hussain       | 2022-CS-76  |
-| Muhammad Tabish Akhtar   | 2022-CS-78  |
-| Saqlain Mansab       | 2022-CS-80  |
-| Sami Ullah           | 2022-CS-82  |
+### 📌 Overview  
+The **Process Tracker & Manager** is a system-level application developed as part of my **Operating Systems course (4th semester)**. It simulates various CPU scheduling algorithms and memory management techniques, allowing users to visualize and analyze process execution.  
+
+### 🎯 Features  
+- ⏳ **CPU Scheduling Algorithms**:  
+  - 🔹 **First-Come, First-Served (FCFS)**  
+  - 🔹 **Shortest Job First (SJF)**  
+  - 🔹 **Round Robin (RR)**  
+  - 🔹 **Priority Scheduling (PAS)**  
+- 📊 **Memory Management**:  
+  - 🔹 **Paging**  
+  - 🔹 **Segmentation**  
+  - 🔹 **Best Fit, Worst Fit, First Fit Allocation**  
+- 📈 **Process Visualization & Statistics**  
+- 🚀 **User-Friendly Interface for Managing Processes**  
+
+### 💻 Tech Stack  
+- **Language:** C++  
+- **Concepts:** CPU Scheduling, Memory Management, Process Scheduling  
+- **Paradigm:** System Programming, Multi-threading  
+
 
 
 ### Guidelines:
